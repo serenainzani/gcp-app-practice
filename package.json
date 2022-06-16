@@ -4,7 +4,8 @@
   "description": "practice app for gcp",
   "main": "app.js",
   "scripts": {
-    "test": "test app"
+    "test": "test app",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
