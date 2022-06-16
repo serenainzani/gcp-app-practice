@@ -1,0 +1,22 @@
+{
+  "name": "gcp-app-practice",
+  "version": "1.0.0",
+  "description": "practice app for gcp",
+  "main": "app.js",
+  "scripts": {
+    "test": "test app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serenainzani/gcp-app-practice.git"
+  },
+  "author": "Serena Inzani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serenainzani/gcp-app-practice/issues"
+  },
+  "homepage": "https://github.com/serenainzani/gcp-app-practice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
